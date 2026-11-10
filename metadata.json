@@ -1,0 +1,6 @@
+{
+  "name": "TripPilot AI",
+  "description": "Your intelligent travel companion — AI-powered trip planning, itinerary builder, flight and hotel comparison, and budget tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
